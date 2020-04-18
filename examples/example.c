@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <assert.h>
-
-#include "utf8.h"
+#include <utf8/utf8.h>
 
 int main(int argc, char** argv)
 {
